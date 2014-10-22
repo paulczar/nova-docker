@@ -31,7 +31,7 @@ from nova.compute import flavors
 from nova.compute import power_state
 from nova.compute import task_states
 from nova import exception
-from nova.i18n import _
+from novadocker.i18n import _
 from nova.image import glance
 from nova.openstack.common import fileutils
 from nova.openstack.common import log
